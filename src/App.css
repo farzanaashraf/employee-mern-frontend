@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* .image1{
+  background-image: url('https://t3.ftcdn.net/jpg/02/78/17/56/240_F_278175694_cfZVupdpAM0R6Yf3EeFJV85audHjgmL8.jpg');
+  background-size: cover;
+  
+} */
+.btn {
+  background-color: rgb(10, 74, 134);
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.mainDiv{
+  background-image: url('https://t3.ftcdn.net/jpg/02/78/17/56/240_F_278175694_cfZVupdpAM0R6Yf3EeFJV85audHjgmL8.jpg');
+  background-size: cover;
+}
